@@ -30,6 +30,8 @@ The directory `p4src` contains `bng.p4`, the P4 program defining the reference
 packet forwarding pipeline of a BNG user plane (BNG-UP) abstracted by the Tassen
 API.
 
+[DC] test text.
+
 The goal of this P4 program is twofold:
 
 1. formally define the forwarding model of a BNG-UP;
